@@ -1,0 +1,39 @@
+{
+	"countries": [{
+		"name": "Peru",
+		"capital": "Lima",
+		"population" : 31.99,
+		"size": "1.285 millions"
+	}, {
+		"name": "Chile",
+		"capital" : "Santiago de Chile",
+		"population": 18.73,
+		"size": "756.950"
+	}, {
+        "name": "Argentina",
+        "capital" : "Buenos Aires",
+        "population": 45.20,
+        "size": "2.78 millions"
+    }, {
+        "name": "Brazil",
+        "capital" : "Rio de Janeiro",
+        "population": 209.5,
+        "size": "8.516 millions"
+    }, {
+        "name": "Bolivia",
+        "capital" : "La Paz",
+        "population": 11.35,
+        "size": "1.099 millions"
+    }, {
+        "name": "Ecuador",
+        "capital" : "Quito",
+        "population": 17.08,
+        "size": "283.560"
+    }, {
+        "name": "Colombia",
+        "capital" : "Quito",
+        "population": 49.65,
+        "size": "1.143"
+    }
+	]
+}

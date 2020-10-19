@@ -13,6 +13,10 @@
 		793C4FB4253DF56C00D87102 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793C4FB2253DF56C00D87102 /* Main.storyboard */; };
 		793C4FB6253DF57100D87102 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793C4FB5253DF57100D87102 /* Assets.xcassets */; };
 		793C4FB9253DF57100D87102 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 793C4FB7253DF57100D87102 /* LaunchScreen.storyboard */; };
+		793C4FC2253DF5DE00D87102 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 793C4FC1253DF5DE00D87102 /* countries.json */; };
+		793C4FCA253DF80800D87102 /* CountryDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793C4FC9253DF80800D87102 /* CountryDetailsViewController.swift */; };
+		793C4FCD253DF85B00D87102 /* CountryDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793C4FCC253DF85B00D87102 /* CountryDetails.swift */; };
+		793C4FD0253DF93A00D87102 /* CountriesDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793C4FCF253DF93A00D87102 /* CountriesDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		793C4FB5253DF57100D87102 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		793C4FB8253DF57100D87102 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		793C4FBA253DF57100D87102 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		793C4FC1253DF5DE00D87102 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		793C4FC9253DF80800D87102 /* CountryDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDetailsViewController.swift; sourceTree = "<group>"; };
+		793C4FCC253DF85B00D87102 /* CountryDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDetails.swift; sourceTree = "<group>"; };
+		793C4FCF253DF93A00D87102 /* CountriesDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,10 @@
 				793C4FB5253DF57100D87102 /* Assets.xcassets */,
 				793C4FB7253DF57100D87102 /* LaunchScreen.storyboard */,
 				793C4FBA253DF57100D87102 /* Info.plist */,
+				793C4FC1253DF5DE00D87102 /* countries.json */,
+				793C4FC9253DF80800D87102 /* CountryDetailsViewController.swift */,
+				793C4FCC253DF85B00D87102 /* CountryDetails.swift */,
+				793C4FCF253DF93A00D87102 /* CountriesDetails.swift */,
 			);
 			path = "Project milestone 13-15";
 			sourceTree = "<group>";
@@ -126,6 +138,7 @@
 			files = (
 				793C4FB9253DF57100D87102 /* LaunchScreen.storyboard in Resources */,
 				793C4FB6253DF57100D87102 /* Assets.xcassets in Resources */,
+				793C4FC2253DF5DE00D87102 /* countries.json in Resources */,
 				793C4FB4253DF56C00D87102 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,7 +152,10 @@
 			files = (
 				793C4FB1253DF56C00D87102 /* ViewController.swift in Sources */,
 				793C4FAD253DF56C00D87102 /* AppDelegate.swift in Sources */,
+				793C4FCA253DF80800D87102 /* CountryDetailsViewController.swift in Sources */,
+				793C4FD0253DF93A00D87102 /* CountriesDetails.swift in Sources */,
 				793C4FAF253DF56C00D87102 /* SceneDelegate.swift in Sources */,
+				793C4FCD253DF85B00D87102 /* CountryDetails.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
